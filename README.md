@@ -1,4 +1,5 @@
 [![CesarCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarhcruz&show_icons=true&theme=dracula)](https://github.com/cesarhcruz/cesarhcruz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarhcruz)](https://github.com/cesarhcruz/cesarhcruz)
 
 - 👋 Hi, I’m @cesarhcruz
 - 🌱 I’m currently learning html, css, javascript
