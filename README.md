@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarhcruz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![CesarCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarhcruz&show_icons=true&theme=dracula)](https://github.com/cesarhcruz/cesarhcruz)
 
 - 👋 Hi, I’m @cesarhcruz
 - 🌱 I’m currently learning html, css, javascript
