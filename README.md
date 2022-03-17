@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarhcruz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @cesarhcruz
 - 🌱 I’m currently learning html, css, javascript
 - 📫 How to reach me https://www.linkedin.com/in/c%C3%A9sar-henrique-da-cruz-41382533/
