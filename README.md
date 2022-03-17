@@ -1,10 +1,6 @@
 [![CesarCruz GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarhcruz&show_icons=true&theme=react)](https://github.com/cesarhcruz/cesarhcruz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarhcruz&show_icons=true&theme=react)](https://github.com/cesarhcruz/cesarhcruz)
 
-- 👋 Hi, I’m @cesarhcruz
-- 🌱 I’m currently learning html, css, javascript
-- 📫 How to reach me https://www.linkedin.com/in/césar-henrique-da-cruz-41382533/
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/>
 
 <!---
